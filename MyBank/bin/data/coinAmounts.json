@@ -1,0 +1,6 @@
+{
+}
+CoinAmount:
+{"Amount":1000,"Coin":{"Name":"rub","Course":100},"WalletId":"00000000-0000-0000-0000-000000000000"}
+{"Amount":3,"Coin":{"Name":"c","Course":4},"WalletId":"00000000-0000-0000-0000-000000000000"}
+

@@ -1,0 +1,33 @@
+C:\Users\ekre4\RiderProjects\E-bank\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\ekre4\RiderProjects\E-bank\Models\bin\Debug\net8.0\Models.dll
+C:\Users\ekre4\RiderProjects\E-bank\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\Models.dll
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\ekre4\RiderProjects\E-bank\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\bin\Debug\net8.0\Models.dll
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\Models.dll
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\Настюшка\Downloads\Telegram Desktop\E-bank\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\Настюшка\RiderProjects\MyBank\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\Настюшка\RiderProjects\MyBank\Models\bin\Debug\net8.0\Models.dll
+C:\Users\Настюшка\RiderProjects\MyBank\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\Models.dll
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\Настюшка\RiderProjects\MyBank\Models\obj\Debug\net8.0\ref\Models.dll

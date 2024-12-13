@@ -1,0 +1,362 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\E-bank\\E-bank.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\E-bank\\E-bank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\E-bank\\E-bank.csproj",
+        "projectName": "E-bank",
+        "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\E-bank\\E-bank.csproj",
+        "packagesPath": "C:\\Users\\Настюшка\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\E-bank\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Настюшка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj"
+              },
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\Presenter.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\Presenter.csproj"
+              },
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj"
+              },
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\View\\View.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\View\\View.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Настюшка\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Настюшка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\Presenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\Presenter.csproj",
+        "projectName": "Presenter",
+        "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\Presenter.csproj",
+        "packagesPath": "C:\\Users\\Настюшка\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Настюшка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj"
+              },
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj",
+        "projectName": "Storage",
+        "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj",
+        "packagesPath": "C:\\Users\\Настюшка\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Настюшка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\View\\View.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\View\\View.csproj",
+        "projectName": "View",
+        "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\View\\View.csproj",
+        "packagesPath": "C:\\Users\\Настюшка\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\View\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Настюшка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Models\\Models.csproj"
+              },
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\Presenter.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Presenter\\Presenter.csproj"
+              },
+              "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj": {
+                "projectPath": "C:\\Users\\Настюшка\\Downloads\\Telegram Desktop\\E-bank\\Storage\\Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
